@@ -1,16 +1,35 @@
-# instagra
+# Car Inspection
 
-A new Flutter project.
+A Flutter application for car inspection.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application focused on car inspections.
 
-A few resources to get you started if this is your first Flutter project:
+### Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Book car inspections
+- View car details
+- Chat with inspectors
+- Search for car inspections
+- Dashboard with featured inspections
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Screenshots
+
+Here are some screenshots of the application:
+
+#### Home Screen
+![Home Screen](assets/images/home_screen.png)
+
+#### Car Details
+![Car Details](assets/images/car_details.png)
+
+### Installation
+
+To get started with this project, clone the repository and run the following commands:
+
+```bash
+git clone https://github.com/AyaazAslam/car-inspection-ui-app.git
+cd car-inspection-ui-app
+flutter pub get
+flutter run
